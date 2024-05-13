@@ -1,4 +1,4 @@
-## Resolução do desafio Desenvolvedor Fullstack Junior 3 da empresa softmakers
+## Resolução do backend do desafio Desenvolvedor Fullstack Junior 3 da empresa softmakers
 
 <br>
 
